@@ -17,7 +17,7 @@ B.S. in Enginerring
 ## Contact
 - Email Address  
 cof.ktmt---at---gmail.com
-- SlideShare
+- SlideShare  
 [https://www.slideshare.net/SatoruKatsumata](https://www.slideshare.net/SatoruKatsumata)
 
 # Research
