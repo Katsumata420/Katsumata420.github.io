@@ -2,7 +2,7 @@
 ## Name
 - Satoru Katsumata
 
-## Work Ecperience
+## Work Experience
 - 2020 - present  
 Retrieva, Inc. Tokyo
 
