@@ -1,6 +1,6 @@
-# 研究発表一覧  
-## 研究発表（筆頭）  
-### 国外  
+# Paper List
+## First Author 
+### International Conference 
 1. 2019.08.02  
 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA14): Shared Task  
 Satoru Katsumata and Mamoru Komachi.  
@@ -14,7 +14,7 @@ Student Research Workshop in the 56th Annual Meeting of the Association for Comp
 Satoru Katsumata, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi.  
 Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models.  
   
-### 国内  
+### Domestic Conference (Japan)
 1. 2020.03.16 - 2020.03.19  
 言語処理学会第26回年次大会 (NLP2020)  
 勝又智, 小町守, 真鍋章（富士電機）, 谷本恒野（富士電機）  
@@ -35,9 +35,13 @@ node2vec を用いた障害レポートにおける故障原因推定
 NLP 若手の会第12回シンポジウム  
 勝又智, 松村雪桜, 山岸駿秀, 小町守  
 ニューラル日英翻訳における RNN モデルと CNN モデルの出力分析  
+
+### Master's thesis
+- 首都大学東京大学院システムデザイン研究科情報科学域 勝又智  
+少量のラベルデータを利用した文法誤り訂正 [[pdf]](./documents/2020/mthesis.pdf)
   
-## 研究発表（共著）  
-### 国外  
+## Co-Author
+### International Conference 
 1. 2019.08.02  
 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 14): Shared Task  
 Masahiro Kaneko, Kengo Hotate, Satoru Katsumata and Mamoru Komachi.  
@@ -51,7 +55,7 @@ The Third Workshop on Asian Translation
 Yukio Matsumura, Satoru Katsumata, Mamoru Komachi.  
 TMU Japanese--English Neural Machine Translation System using Generative Adversarial Network for WAT 2018.  
   
-### 国内  
+### Domestic Conference (Japan) 
 1. 2020.03.16 - 2020.03.19  
 言語処理学会第26回年次大会 (NLP2020)  
 王鴻飛, 黒澤道希, 勝又智, 小町守 (首都大)  
