@@ -1,15 +1,19 @@
 # Paper List
 ## First Author 
 ### International Conference 
-1. 2019.08.02  
+1. 2020.12.04 - 2020.12.07
+In The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP)
+Satoru Katsumata and Mamoru Komachi.
+Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder-Decoder Model. 
+2. 2019.08.02  
 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA14): Shared Task  
 Satoru Katsumata and Mamoru Komachi.  
 (Almost) Unsupervised Grammatical Error Correction using Synthetic Comparable Corpus.  
-2. 2019.07.24  
+3. 2019.07.24  
 arXiv (extended version of BEA14)  
 Satoru Katsumata and Mamoru Komachi.  
 Towards Unsupervised Grammatical Error Correction using Statistical Machine Translation with Synthetic Comparable Corpus.  
-3. 2018.07.15 - 2018.07.20  
+4. 2018.07.15 - 2018.07.20  
 Student Research Workshop in the 56th Annual Meeting of the Association for Computational Linguistics (ACL2018)  
 Satoru Katsumata, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi.  
 Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models.  
@@ -42,15 +46,19 @@ NLP 若手の会第12回シンポジウム
   
 ## Co-Author
 ### International Conference 
-1. 2019.08.02  
+1. 2020.12.04 - 2020.12.07
+In The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP)
+Hongfei Wang, Michiki Kurosawa, Satoru Katsumata and Mamoru Komachi. 
+Chinese Grammatical Correction Using BERT-based Pre-trained Model.
+2. 2019.08.02  
 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 14): Shared Task  
 Masahiro Kaneko, Kengo Hotate, Satoru Katsumata and Mamoru Komachi.  
 TMU Transformer System Using BERT for Re-ranking at BEA 2019 Grammatical Error Correction on Restricted Track.  
-2. 2019.07.29 - 2019.07.31  
+3. 2019.07.29 - 2019.07.31  
 Student Research Workshop in the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)  
 Kengo Hotate, Masahiro Kaneko, Satoru Katsumata and Mamoru Komachi.  
 Controlling Grammatical Error Correction Using Word Edit Rate.  
-3. 2018.12.02  
+4. 2018.12.02  
 The Third Workshop on Asian Translation  
 Yukio Matsumura, Satoru Katsumata, Mamoru Komachi.  
 TMU Japanese--English Neural Machine Translation System using Generative Adversarial Network for WAT 2018.  
