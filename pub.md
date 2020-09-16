@@ -1,9 +1,9 @@
 # Paper List
 ## First Author 
 ### International Conference 
-1. 2020.12.04 - 2020.12.07
-In The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP)
-Satoru Katsumata and Mamoru Komachi.
+1. 2020.12.04 - 2020.12.07  
+In The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP)  
+Satoru Katsumata and Mamoru Komachi.   
 Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder-Decoder Model. 
 2. 2019.08.02  
 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA14): Shared Task  
@@ -46,9 +46,9 @@ NLP 若手の会第12回シンポジウム
   
 ## Co-Author
 ### International Conference 
-1. 2020.12.04 - 2020.12.07
-In The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP)
-Hongfei Wang, Michiki Kurosawa, Satoru Katsumata and Mamoru Komachi. 
+1. 2020.12.04 - 2020.12.07   
+In The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP)  
+Hongfei Wang, Michiki Kurosawa, Satoru Katsumata and Mamoru Komachi.   
 Chinese Grammatical Correction Using BERT-based Pre-trained Model.
 2. 2019.08.02  
 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 14): Shared Task  
