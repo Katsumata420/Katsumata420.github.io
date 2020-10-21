@@ -46,19 +46,31 @@ NLP 若手の会第12回シンポジウム
   
 ## Co-Author
 ### International Conference 
-1. 2020.12.04 - 2020.12.07   
+1. 2020.12.08 - 2020.12.11  
+In The 28th International Conference on Computatinal Linguistics (COLING)  
+Ikumi Yamashita, Satoru Katsumata, Masahiro Kaneko, Aizhan Imankulova and Mamoru Komachi.  
+Cross-lingual Transfer Learning for Grammatical Error Correction.
+2. 2020.12.04 - 2020.12.07   
 In The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP)  
 Hongfei Wang, Michiki Kurosawa, Satoru Katsumata and Mamoru Komachi.   
 Chinese Grammatical Correction Using BERT-based Pre-trained Model.
-2. 2019.08.02  
+3. 2020.07.06 - 2020.07.08  
+ In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (ACL 2020 SRW)  
+Yujin Takahashi, Satoru Katsumata and Mamoru Komachi.  
+Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner's Error Tendency.  
+4. 2020.05.  
+In 12th International Conference on Language Resources and Evaluation (LREC 2020)  
+Reo Hirao, Mio Arai, Hiroki Shimanaka, Satoru Katsumata and Mamoru Komachi.  
+ Automated Essay Scoring System for Nonnative Japanese Learners.
+5. 2019.08.02  
 14th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 14): Shared Task  
 Masahiro Kaneko, Kengo Hotate, Satoru Katsumata and Mamoru Komachi.  
 TMU Transformer System Using BERT for Re-ranking at BEA 2019 Grammatical Error Correction on Restricted Track.  
-3. 2019.07.29 - 2019.07.31  
+6. 2019.07.29 - 2019.07.31  
 Student Research Workshop in the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)  
 Kengo Hotate, Masahiro Kaneko, Satoru Katsumata and Mamoru Komachi.  
 Controlling Grammatical Error Correction Using Word Edit Rate.  
-4. 2018.12.02  
+7. 2018.12.02  
 The Third Workshop on Asian Translation  
 Yukio Matsumura, Satoru Katsumata, Mamoru Komachi.  
 TMU Japanese--English Neural Machine Translation System using Generative Adversarial Network for WAT 2018.  
