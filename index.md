@@ -1,3 +1,8 @@
+# News
+- AACL-IJCNLP2020 にて下記論文を発表しました  
+**Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder-Decoder Model.**  
+Satoru Katsumata and Mamoru Komachi.
+
 # プロフィール
 ## 名前
 - 勝又 智
