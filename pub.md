@@ -42,7 +42,7 @@ NLP 若手の会第12回シンポジウム
 
 ### Master's thesis
 - 首都大学東京大学院システムデザイン研究科情報科学域 勝又智  
-少量のラベルデータを利用した文法誤り訂正 [[pdf]](./documents/2020/mthesis.pdf)
+**少量のラベルデータを利用した文法誤り訂正** [[pdf]](./documents/2020/mthesis.pdf)
   
 ## Co-Author
 ### International Conference 
