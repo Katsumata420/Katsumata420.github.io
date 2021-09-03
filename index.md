@@ -41,7 +41,7 @@ cof.ktmt---at---gmail.com
 - SlideShare (主に論文紹介用)  
 [https://www.slideshare.net/SatoruKatsumata](https://www.slideshare.net/SatoruKatsumata)
 - Qiita (研究の小ネタ)  
-[https://qiita.com/Katsumata420](https;//qiita.com/Katsumata420)
+[https://qiita.com/Katsumata420](https://qiita.com/Katsumata420)
 
 # 研究
 研究発表は[こちら](./pub.html)
