@@ -1,14 +1,10 @@
 # About Me
 
 # News
-- 言語処理年次大会にて下記論文を発表しました  
-**CSJを用いた日本語話し言葉BERTの作成**  
-勝又智, 坂田大直.  
-**事前学習モデルを用いた少量データに対する日本語抽象型要約**  
-勝又智.
-- AACL-IJCNLP2020 にて下記論文を発表しました  
-**Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder-Decoder Model.**  
-Satoru Katsumata and Mamoru Komachi.
+- GPT-2を利用したデモアプリを作成しました  
+"小説家になろう"っぽい小説タイトルメーカー [[link](https://www.narou-generator.com)]
+- 個人的なメモ用のブログを作成しました  
+塵も積もれば忘備録 [[link](https://eskaylog.com)]
 
 # プロフィール
 ## 名前
@@ -42,6 +38,8 @@ cof.ktmt---at---gmail.com
 [https://www.slideshare.net/SatoruKatsumata](https://www.slideshare.net/SatoruKatsumata)
 - Qiita (研究の小ネタ)  
 [https://qiita.com/Katsumata420](https://qiita.com/Katsumata420)
+- 個人的なメモ用ブログ  
+[https://eskaylog.com](https://eskaylog.com)
 
 # 研究
 研究発表は[こちら](./pub.html)
