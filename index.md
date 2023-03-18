@@ -1,8 +1,8 @@
 # About Me
 
 # News
-- GPT-2を利用したデモアプリを作成しました  
-"小説家になろう"っぽい小説タイトルメーカー [[link](https://www.narou-generator.com)]
+- NLP2023にて下記の発表を行いました  
+特定のドメインに特化した日本語同義語獲得の検討
 - 個人的なメモ用のブログを作成しました  
 塵も積もれば忘備録 [[link](https://eskaylog.com)]
 

@@ -19,6 +19,10 @@ Satoru Katsumata, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi.
 **Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models.**  
   
 ### Domestic Conference (Japan)
+1. 2023.03.13 - 2023.03.17  
+言語処理学会第29回年次大会 (NLP2023)    
+勝又智, 飯田大貴  
+**特定のドメインに特化した日本語同義語獲得の検討**
 1. 2021.03.15 - 2021.03.19  
 言語処理学会第27回年次大会 (NLP2021)  
 勝又智, 坂田大直  
