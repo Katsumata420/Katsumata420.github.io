@@ -1,4 +1,7 @@
 # Tools
+- Easy Data Augmentation for Japanese  
+[https://github.com/Katsumata420/eda_nlp](https://github.com/Katsumata420/eda_nlp)
+
 - Generic Pretrained Grammatical Error Correction  
 [https://github.com/Katsumata420/generic-pretrained-GEC](https://github.com/Katsumata420/generic-pretrained-GEC)
 

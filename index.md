@@ -1,10 +1,8 @@
 # About Me
 
 # News
-- NLP2023にて下記の発表を行いました  
-特定のドメインに特化した日本語同義語獲得の検討
-- 個人的なメモ用のブログを作成しました  
-塵も積もれば忘備録 [[link](https://eskaylog.com)]
+- [Easy Data Augmentation](https://aclanthology.org/D19-1670/) を**日本語向け**に実装しました  
+[https://github.com/Katsumata420/eda_nlp](https://github.com/Katsumata420/eda_nlp)
 
 # プロフィール
 ## 名前
@@ -36,8 +34,12 @@ cof.ktmt---at---gmail.com
 [https://github.com/Katsumata420](https://github.com/Katsumata420)
 - SlideShare (主に論文紹介用)  
 [https://www.slideshare.net/SatoruKatsumata](https://www.slideshare.net/SatoruKatsumata)
+- Speaker Deck (SlideShare から移行)  
+[https://speakerdeck.com/katsumata420](https://speakerdeck.com/katsumata420)
 - Qiita (研究の小ネタ)  
 [https://qiita.com/Katsumata420](https://qiita.com/Katsumata420)
+- Zenn (研究の小ネタ2; Qiita よりもよりまとまった内容を投稿予定)  
+[https://zenn.dev/katsumata420](https://zenn.dev/katsumata420)
 - 個人的なメモ用ブログ  
 [https://eskaylog.com](https://eskaylog.com)
 
