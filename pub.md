@@ -61,7 +61,14 @@ NLP 若手の会第12回シンポジウム
 **少量のラベルデータを利用した文法誤り訂正** [[pdf]](./documents/2020/mthesis.pdf)
   
 ## Co-Author
-### International Conference 
+### International Conference/Journal
+1. 2024.12.07-2024.12.09  
+In The 38th Pacific Asia Conference on Language, Information and Computation (PACLIC)  
+Takuro Fujii, Satoru Katsumata.  
+**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM.**
+1. Hongfei Wang, Michiki Kurosawa, Satoru Katsumata, Masato Mita, and Mamoru Komachi.  
+**Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data.**  
+ACM Trans. Asian Low-Resour. Lang. Inf. Process. 22, 3, Article 89 (March 2023), 12 pages.
 1. 2020.12.08 - 2020.12.11  
 In The 28th International Conference on Computatinal Linguistics (COLING)  
 Ikumi Yamashita, Satoru Katsumata, Masahiro Kaneko, Aizhan Imankulova and Mamoru Komachi.  
@@ -92,6 +99,14 @@ Yukio Matsumura, Satoru Katsumata, Mamoru Komachi.
 **TMU Japanese--English Neural Machine Translation System using Generative Adversarial Network for WAT 2018.**  
   
 ### Domestic Conference (Japan) 
+1. 2024.03.11 - 2024.03.15  
+言語処理学会第30回年次大会 (NLP2024)  
+藤井巧朗 (横国大), 勝又智 (レトリバ)  
+**日本語タスクにおける LLM を用いた疑似学習データ生成の検討**
+1. 2024.03.11 - 2024.03.15  
+言語処理学会第30回年次大会 (NLP2024)  
+Namgi Han (東大), 植田暢大 (京大), 大嶽匡俊 (東大), 勝又智 (レトリバ), 鎌田啓輔 (Weights & Biases Japan), 清丸寛一, 児玉貴志 (京大), 菅原朔 (NII), Bowen Chen (東大), 松田寛 (リクルート), 宮尾祐介 (東大), 村脇有吾 (京大), 劉弘毅 (Citadel AI)  
+**llm-jp-eval: 日本語大規模言語モデルの自動評価ツール**
 1. 2020.03.16 - 2020.03.19  
 言語処理学会第26回年次大会 (NLP2020)  
 王鴻飛, 黒澤道希, 勝又智, 小町守 (首都大)  
@@ -132,5 +147,13 @@ NLP 若手の会第14回シンポジウム
 NLP 若手の会第13回シンポジウム  
 甫立健悟, 松村雪桜, 勝又智, 金子正弘, 小町守  
 **敵対的生成ネットワークを用いた文法誤り訂正**  
+
+### Domestic Journal (Japan)
+1. 山下 郁海, 金子 正弘, 三田 雅人, 勝又 智, Aizhan Imankulova, 小町 守  
+**言語間での転移学習のための事前学習モデルと多言語の学習者データを用いた文法誤り訂正**  
+自然言語処理, 2022, 29 巻, 2 号, p. 314-343
+2. 甫立健悟, 金子正弘, 勝又智, 小町守  
+**文法誤り訂正における訂正度を考慮した多様な訂正文の生成**  
+自然言語処理, 2021, 28 巻, 2 号, p. 428-449
   
 [back](./)  
