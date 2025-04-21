@@ -7,6 +7,8 @@
 Retrieva, Inc. Tokyo
 
 ## Education
+- 2025 - present  
+Science Tokyo University - Tokyo, Japan
 - 2018 - 2020  
 Tokyo Metropolitan University - Tokyo, Japan  
 M.S. in Computer and Information Sciences
@@ -28,5 +30,6 @@ Publication list: [here](./pub.html)
 - Machine Learning; ML
 - Grammatical Error Correction; GEC
 - Machine Translation; MT
+- Safety of Large Language Models
 
 [back](./)
